@@ -20,7 +20,3 @@ Feature: User is able to open Wallpaper HUB by different ways
         When I open app tray and search for the word "Settings"
         And I open Personilize inside settings
         Then Wallpaper HUB screen is displayed
-
-
-
-

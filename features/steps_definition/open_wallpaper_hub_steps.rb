@@ -35,5 +35,3 @@ When('I open Personilize inside settings') do
     sleep 1
     find_element(id:"com.motorola.personalize:id/lock_screen_wallpaper").click
 end
-
-
